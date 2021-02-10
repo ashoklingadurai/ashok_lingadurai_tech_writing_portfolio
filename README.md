@@ -10,8 +10,6 @@
 
 **Total Years of Experience:** 6+ years *[Technical Writer + Software Developer]*
 
-[banner image](/portfilio_banner.jpg)
-
 ___
 
 ## Tech Blogs
