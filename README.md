@@ -10,6 +10,8 @@
 
 **Total Years of Experience:** 6 years *[Technical Writer + Software Developer]*
 
+**Tech Blogs** {align=center}
+
 
 
 
