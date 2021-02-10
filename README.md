@@ -30,8 +30,36 @@ ___
 ## General Blogs
 **Context:** *Blogs & Infographics created for a digital marketing POV*
 * **Serverless Computing: A Paradigm Shift in Infrastructure Management** - [View Blog](https://inapp.com/serverless-computing-a-paradigm-shift-in-infrastructure-management/)
-* **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/){:target="_blank" rel="noopener"}
-* **Major Challenges with Blockchain Technology** - [View Blog](https://inapp.com/3-major-challenges-associated-with-blockchain/){:target="_blank" rel="noopener"}
+* **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/)
+* **Major Challenges with Blockchain Technology** - [View Blog](https://inapp.com/3-major-challenges-associated-with-blockchain/)
+* **IT Infrastructure Management using DevOps** - [View Blog](https://inapp.com/it-infrastructure-management-using-devops/)
+* **Text Analysis using Elasticsearch** *[Infographic]* - [View Infographic](https://inapp.com/text-analysis-and-natural-language-processing-using-elasticsearch/)
 
+___
+
+## Product User Manuals
+* **Getting started with Apiman: Overview, Installation & Setting up a Provider and Consumer** - [View User Manual](https://github.com/ashoklingadurai/redhat_apiman_user_manual/blob/master/Apiman_Getting_Started.adoc)
+
+___
+
+## Other Documentation
+*Following are my areas of expertise in which I've made significant contributions internally*
+* Product Release Notes
+* API Documentation
+* Product User Manuals
+* Knowledge Base Articles
+* Client Facing Documentation
+* Software Requirements Documentation
+* Architecture Diagrams
+* Newsletters
+
+___
+
+## Hobby
+*One of my hobby is to write answers on Quora; related to movies and entertainment.* Please feel free to take a look at my profile - [View Quora Profile](https://www.quora.com/profile/%E0%AE%85%E0%AE%9A%E0%AF%87%E0%AE%BE%E0%AE%95%E0%AF%8D-%E0%AE%B2%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88-Ashok-Lingadurai)
+
+___
+Reach out to me via Linkedin - [View Profile](https://www.linkedin.com/in/ashok-lingadurai-32063865/)
+or via email - ashoklingadurai@gmail.com
 
 
