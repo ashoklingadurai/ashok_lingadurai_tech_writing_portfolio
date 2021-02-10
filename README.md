@@ -30,8 +30,8 @@ ___
 ## General Blogs
 **Context:** *Blogs & Infographics created for a digital marketing POV*
 * **Serverless Computing: A Paradigm Shift in Infrastructure Management** - [View Blog](https://inapp.com/serverless-computing-a-paradigm-shift-in-infrastructure-management/)
-* **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/){:target="_blank"}
-* **Major Challenges with Blockchain Technology** - [View Blog](https://inapp.com/3-major-challenges-associated-with-blockchain/){:target="_blank"}
+* **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/){:target="_blank" rel="noopener"}
+* **Major Challenges with Blockchain Technology** - [View Blog](https://inapp.com/3-major-challenges-associated-with-blockchain/){:target="_blank" rel="noopener"}
 
 
 
