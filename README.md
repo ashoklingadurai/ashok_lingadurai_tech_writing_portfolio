@@ -10,7 +10,13 @@
 
 **Total Years of Experience:** 6 years *[Technical Writer + Software Developer]*
 
-**Tech Blogs** {align=center}
+___
+
+## Tech Blogs
+
+* **Handling API requests at scale using Meesho’s in-house Edge Proxy service** - [View Blog](https://medium.com/meesho-tech/handling-api-requests-at-scale-using-meeshos-in-house-edge-proxy-service-a77e1e18627b) - A brief overview of how an Edge Proxy layer plays a vital role in an eCommerce product.
+* **Meesho’s Rating and Review System: Capturing user sentiments and analysing in real-time to maintain platform hygiene**
+
 
 
 
