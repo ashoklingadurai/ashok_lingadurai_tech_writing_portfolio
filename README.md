@@ -14,6 +14,7 @@ ___
 
 ## Tech Blogs
 *Here are some of my works:*
+* **Meesho's data engineering efforts towards building a more scalable architecture for data processing** - [View Blog](https://medium.com/meesho-tech/solving-meeshos-big-data-requirements-using-delta-lake-4ac100dd6723) - A detailed overview of how our data engineering team built our in-house data lake to handle the big data requirements in 2021.
 * **Handling API requests at scale using Meesho’s in-house Edge Proxy service** - [View Blog](https://medium.com/meesho-tech/handling-api-requests-at-scale-using-meeshos-in-house-edge-proxy-service-a77e1e18627b) - A brief overview of how an Edge Proxy layer plays a vital role in an eCommerce product.
 * **Meesho’s Rating and Review System: Capturing user sentiments and analysing in real-time to maintain platform hygiene** - [View Blog](https://medium.com/meesho-tech/meeshos-rating-and-review-system-a-tech-perspective-17d3614070ad) - An overview on how ratings & reviews infrastructure work in an eCommerce product.
 * **How Meesho’s dedicated A/B Infra enables us to experiment and scale new features** - [View Blog](https://medium.com/meesho-tech/meeshos-dedicated-a-b-infra-enables-us-to-experiment-and-scale-new-features-99f2c2a508ad) - A take on how an in-house A/B service can help in real-time audience segmentation and in experimenting new features among different demographics.
