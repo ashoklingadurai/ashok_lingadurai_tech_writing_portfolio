@@ -4,7 +4,7 @@
 
 **Contributor:** [Ashok Lingadurai](https://www.linkedin.com/in/ashok-lingadurai-32063865/)
 
-**Current Role:** Senior Technical Writer
+**Current Role:** Senior Information Developer
 
 **Current Company:** [Zeta Suite](https://www.zeta.tech/in)
 
