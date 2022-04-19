@@ -29,6 +29,17 @@ ___
 
 ___
 
+## API documentation
+
+* A sample API documentation created for my portfolio: [View document](https://ashoklingadurai.github.io/api-documentation-test/)
+
+### Tools used to create this API document
+* **Source/version control:** GitHub ([view source code](https://github.com/ashoklingadurai/api-documentation-test))
+* **Code editor:** VS code
+* **Static site generator and theme:** Gitpages and Slate
+
+___
+
 ## Project Case Studies
 **Context:** *Case studies are a brief documentation that gives you an overview of a client's project, its challenges faced by the developers, how they overcame them and what solutions/technologoes the team used to solve those challenges. These documents are ideally used as marketing collaterals.*
 
