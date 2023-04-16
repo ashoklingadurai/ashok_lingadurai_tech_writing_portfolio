@@ -4,13 +4,13 @@
 
 **Contributor:** [Ashok Lingadurai](https://www.linkedin.com/in/ashok-lingadurai-32063865/)
 
-**Current Role:** Senior Information Developer
+**Current Role:** Lead Technical Writer
 
-**Current Company:** [Zeta Suite](https://www.zeta.tech/in)
+**Current Company:** [Gojek](https://www.gojek.io/) (A part of GoTo group, Indonesia)
 
-**Previously worked with:** [Meesho](https://meesho.io/), [InApp](https://inapp.com/), [UST](https://www.ust.com/)
+**Previously worked with:** [Zeta](https://www.zeta.tech/in/), [Meesho](https://meesho.io/), [InApp](https://inapp.com/), [UST](https://www.ust.com/)
 
-**Total Years of Experience:** 8 years *[Technical Writer + Software Developer]*
+**Total Years of Experience:** 9 years *[Technical Writer + Software Developer]*
 
 ___
 
