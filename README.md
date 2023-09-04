@@ -36,19 +36,19 @@ ___
 ### Tools used to create this API document
 * **Source/version control:** GitHub ([view source code](https://github.com/ashoklingadurai/api-documentation-test))
 * **Code editor:** VS code
-* **Static site generator and theme:** Gitpages and Slate
+* **Static site generator and theme:** GitPages and Slate
 
 ___
 
 ## Project Case Studies
-**Context:** *Case studies are a brief documentation that gives you an overview of a client's project, its challenges faced by the developers, how they overcame them and what solutions/technologoes the team used to solve those challenges. These documents are ideally used as marketing collaterals.*
+**Context:** *Case studies are a brief documentation that gives you an overview of a client's project, its challenges faced by the developers, how they overcame them and what solutions/technologies the team used to solve those challenges. These documents are ideally used as marketing collateral.*
 
-The following site hosts all the case study documents which I've worked on over the period of 1.5 years. These documents cover the different software/product solutions implemented across different client verticals *(Healthcare, Retail, ERP, Aerospace, etc)* - [View Case Studies](https://inapp.com/resources/case-studies/)
+The following site hosts all the case study documents which I've worked on over the period of 1.5 years. These documents cover the different software/product solutions implemented across various client verticals *(Healthcare, Retail, ERP, Aerospace, etc)* - [View Case Studies](https://inapp.com/resources/case-studies/)
 
 ___
 
 ## General Blogs
-**Context:** *Blogs & Infographics created for a digital marketing POV*
+**Context:** *Blogs & Infographic created for a digital marketing POV*
 * **Serverless Computing: A Paradigm Shift in Infrastructure Management** - [View Blog](https://inapp.com/serverless-computing-a-paradigm-shift-in-infrastructure-management/)
 * **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/)
 * **Major Challenges with Blockchain Technology** - [View Blog](https://inapp.com/3-major-challenges-associated-with-blockchain/)
@@ -71,7 +71,7 @@ ___
 * Client Facing Documentation
 * Software Requirements Documentation
 * Architecture Diagrams
-* Newsletters
+* Tech Newsletters
 
 ___
 
