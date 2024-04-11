@@ -4,11 +4,11 @@
 
 **Contributor:** [Ashok Lingadurai](https://www.linkedin.com/in/ashok-lingadurai-32063865/)
 
-**Current Role:** Lead Technical Writer
+**Current Role:** Technical Writer
 
-**Current Company:** [Gojek](https://www.gojek.io/) (A part of GoTo group, Indonesia)
+**Current Company:** [Spotnana](https://www.spotnana.com/)
 
-**Previously worked with:** [Zeta](https://www.zeta.tech/in/), [Meesho](https://meesho.io/), [InApp](https://inapp.com/), [UST](https://www.ust.com/)
+**Previously worked with:** [Gojek](https://www.gojek.io/), [Zeta](https://www.zeta.tech/in/), [Meesho](https://meesho.io/), [InApp](https://inapp.com/), [UST](https://www.ust.com/)
 
 **Total Years of Experience:** 9 years *[Technical Writer + Software Developer]*
 
