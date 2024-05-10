@@ -31,12 +31,17 @@ ___
 
 ## API documentation
 
-* A sample API documentation created for my portfolio: [View document](https://ashoklingadurai.github.io/api-documentation-test/)
+1. An API docs portal created for Spotnana: [View API docs](https://developer.spotnana.com/)
+  * In this documentation I worked primarily on the Air topics.
+  * **Tools used:** Redocly and Github.
+  * **Code editor:** Intellij
 
-### Tools used to create this API document
-* **Source/version control:** GitHub ([view source code](https://github.com/ashoklingadurai/api-documentation-test))
-* **Code editor:** VS code
-* **Static site generator and theme:** GitPages and Slate
+
+2. A sample API documentation created for my portfolio: [View document](https://ashoklingadurai.github.io/api-documentation-test/)
+  * This is a sample API docs created just for the purpose of presenting it on my portfolio.
+  * **Tools used:** Slate, Gitpages, and Github.
+  * **Code editor:** VS Code.
+  * View source code for this API documentation hosted on Github: [View source code](https://github.com/ashoklingadurai/api-documentation-test).
 
 ___
 
@@ -47,7 +52,7 @@ The following site hosts all the case study documents which I've worked on over 
 
 ___
 
-## General Blogs
+## General Tech Blogs
 **Context:** *Blogs & Infographic created for a digital marketing POV*
 * **Serverless Computing: A Paradigm Shift in Infrastructure Management** - [View Blog](https://inapp.com/serverless-computing-a-paradigm-shift-in-infrastructure-management/)
 * **Text Mining using NLP** - [View Blog](https://inapp.com/3-business-benefits-from-text-mining-using-nlp-2/)
@@ -65,13 +70,12 @@ ___
 ## Other Documentation
 *Following are my areas of expertise in which I've made significant contributions internally*
 * Product Release Notes
-* API Documentation
+* API and SDK Documentation
 * Product User Manuals
-* Knowledge Base Articles
-* Client Facing Documentation
+* Engineering-focussed Knowledge Base Articles
 * Software Requirements Documentation
 * Architecture Diagrams
-* Tech Newsletters
+* Tech and Product Newsletters
 
 ___
 
