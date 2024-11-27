@@ -10,7 +10,7 @@
 
 **Previously worked with:** [Gojek](https://www.gojek.io/), [Zeta](https://www.zeta.tech/in/), [Meesho](https://meesho.io/), [InApp](https://inapp.com/), [UST](https://www.ust.com/)
 
-**Total Years of Experience:** 9 years *[Technical Writer + Software Developer]*
+**Total Years of Experience:** 10 years *[Technical Writer + Software Developer]*
 
 ___
 
@@ -39,7 +39,10 @@ ___
 ## API documentation
 
 1. An API docs portal created for Spotnana: [View API docs](https://developer.spotnana.com/)
-  * In this documentation I worked primarily on the Air topics.
+  * In this documentation I worked primarily on the following conceptual and workflow topics:
+    * Concepts: [View topics](https://developer.spotnana.com/spotnana/concepts_intro)
+    * Workflows: [View topics](https://developer.spotnana.com/spotnana/air_workflows)
+    * Other docs: [View topics](https://developer.spotnana.com/spotnana/chained_workflows)
   * **Tools used:** Redocly and Github.
   * **Code editor:** Intellij
 
