@@ -19,6 +19,13 @@ ___
 
 ___
 
+## Help Center Docs
+* **Authentication flows overview** - Created for onboarding new customers to Spotnana platform. [View doc](https://spotnana.freshdesk.com/support/solutions/articles/72000637165-spotnana-authentication-flows-overview#Spotnana-authentication-flows---Overview)
+* **How to use split payment feature** - A how-to instructional guide on how to use a specific feature. [View doc](https://spotnana.freshdesk.com/support/solutions/articles/72000631792-pay-for-ancillaries-with-your-personal-card-air-)
+* **How to view split payment transactions** - An instructional document on how to view a transaction. [View doc](https://spotnana.freshdesk.com/support/solutions/articles/72000631813-view-split-payment-details-in-itinerary-air-)
+
+---
+
 ## Engineering Blogs
 *Here are some of my contributions:*
 
